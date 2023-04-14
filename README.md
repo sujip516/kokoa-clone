@@ -1,3 +1,24 @@
-# kokoa clone
+# Kokoa clone
 
-Learn HTML and CSS and then create a project!
+> 카카오톡 클론 프로젝트
+
+</br>
+
+## 학습 및 제작 기간
+
+- 2023/3/30 ~ 2023/04/05
+
+</br>
+
+## 사용한 기술
+
+- HTML5
+- CSS
+
+</br>
+
+## 프로젝트 목표
+
+- 반응형 웹사이트 구현
+- CSS로 애니메이션 효과 구현
+- Font Awesome과 같은 외부 링크 활용
